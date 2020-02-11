@@ -7,7 +7,6 @@
  *
  ******************************************************************************/
 
-package edu.princeton.cs.algs4;
 
 import java.io.BufferedInputStream;
 import java.io.File;
